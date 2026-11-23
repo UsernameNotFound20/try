@@ -7,5 +7,7 @@ int main() {
     for (int n : numbers) {
         cout << n << "\n";
     }
+    cout << "Hate this thing";
+    
     return 0;
 }
